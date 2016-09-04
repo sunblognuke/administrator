@@ -1,6 +1,6 @@
 <div class="table_container">
 
-	<div class="results_header">
+	<div class="results_header" style="margin-bottom: 20px;">
 		<h2 data-bind="text: modelTitle"></h2>
 		<!-- ko if: subTitle -->
 			<div class="alert alert-warning" data-bind="html: subTitle"></div>
