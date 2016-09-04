@@ -14,7 +14,7 @@ Forked from [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Lar
 * Reduce page css and js file request number
 * Edit view hint
 
-> only intent to support Laravel 5.1.*
+ ~~only intent to support Laravel 5.1.*~~
 
 ![1](https://cloud.githubusercontent.com/assets/324764/16544619/6db648d0-413f-11e6-8842-bf0b993416ef.png)
 
